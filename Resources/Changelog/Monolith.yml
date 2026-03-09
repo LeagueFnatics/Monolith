@@ -18157,3 +18157,10 @@ Entries:
   id: 2002
   time: '2026-03-09T20:39:45.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3423
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Borg L6 no longer regenerating AP
+  id: 2003
+  time: '2026-03-09T20:46:15.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3424
