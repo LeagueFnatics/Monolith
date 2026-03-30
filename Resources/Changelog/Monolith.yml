@@ -19224,3 +19224,12 @@ Entries:
   id: 2114
   time: '2026-03-29T18:37:55.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3627
+- author: mikusssssss
+  changes:
+    - type: Add
+      message: Added larpcomm
+    - type: Remove
+      message: Removed useless commie channel
+  id: 2115
+  time: '2026-03-30T04:38:28.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3626
