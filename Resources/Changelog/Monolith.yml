@@ -19196,3 +19196,10 @@ Entries:
   id: 2116
   time: '2026-04-02T18:52:53.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3677
+- author: Ilya246
+  changes:
+    - type: Tweak
+      message: Shield ram damage reduction now applies to both colliding grids.
+  id: 2117
+  time: '2026-04-03T09:04:09.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3678
