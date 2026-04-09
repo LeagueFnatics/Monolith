@@ -19552,3 +19552,10 @@ Entries:
   id: 2156
   time: '2026-04-09T17:22:37.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3734
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Fixed oversights from ship HP changes.
+  id: 2157
+  time: '2026-04-09T17:40:26.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3735
